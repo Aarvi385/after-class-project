@@ -1,0 +1,30 @@
+body{
+  background-color: lightblue;
+  color:white;
+}
+.BG{
+  /* background-color:lightpink; */
+  background-image:url(https://tse1.mm.bing.net/th/id/OIP.XXSOknOfEOFlxlQkcbNrIwHaE5?pid=Api&P=0&h=180) ;
+  background-position: center;
+  background-attachment: fixed;
+  }
+#Grad1{
+   background: linear-gradient(to bottom right, #006eff, yellow);
+}
+#Grad2{
+  background:radial-gradient( circle,purple,pink)
+}
+.Anime{
+  animation-name:Anime1;
+  animation-duration:6s;
+  animation-iteration-count:infinite;
+}
+@keyframes Anime1{
+  /* from{background-color:rgb(18, 17, 17);}
+  to{background-color:pink;}
+  to{ background-color: aqua;}*/
+   5% {background-color: rgb(10, 10, 10);}
+  10% {background-color: rgb(166, 91, 146);}
+  20% {background-color: rgb(221, 189, 10);}
+  30% {background-color: rgb(23, 158, 152);}
+} 
