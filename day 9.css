@@ -1,0 +1,35 @@
+.type1{
+    font-size:20px;
+    font-family:Arial,sans-serif;
+    color:blueviolet;
+     font-weight: 30px;
+    font-style: italic;
+}
+
+.rotate{
+      transform:rotate(190deg);
+    width:200px;
+    height:90px;
+    background-color:yellow;
+}
+
+    
+.Dec1{
+    text-decoration:wavy underline;
+    text-shadow:3px 3px 3px blue;
+    text-decoration-color:black;
+}
+.Dec2{
+    text-decoration:line-through;
+    box-shadow: 6px 6px 6px red;
+    width:70px;
+    height:70px;
+}
+.Dec3{
+    text-transform: capitalize;
+}
+.Dec4{
+    text-indent: 130px;
+    transform:scale(1,1);
+    padding:40px;
+}
