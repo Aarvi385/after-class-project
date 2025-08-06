@@ -1,9 +1,14 @@
+body{
+    Background:linear-gradient( to left ,rgb(240, 119, 203), yellow);
+    
+}
 .Box{
     padding: 6px 5px 6px 5px;
     margin:300px 300px 300px 300px;
     border: 3px solid rgb(20, 20, 20);
     background:linear-gradient( to right , rgb(180, 9, 38) , rgb(63, 13, 199));
     float:left;
+    box-shadow: 5px 4px 5px 4px;
     width:900px;
     height:800px;
     background-size: 200% 100% ;
