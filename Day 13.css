@@ -1,0 +1,17 @@
+.col{
+    border:  3px dotted black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    width:50%;
+}
+.row{
+    background-color: rgb(162, 206, 247);
+}
+.col-xl-1{
+    background-color: blue;
+    color:white;
+}
+.col-sm-1{
+    background-color: rgb(223, 39, 146);
+    color:white;
+}
