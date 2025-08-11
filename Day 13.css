@@ -1,17 +1,20 @@
-.col{
-    border:  3px dotted black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: blueviolet;
-    width:50%;
+.box-red {
+    background-color: #ffcccc;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #999;
 }
-.row{
-    background-color: rgb(162, 206, 247);
+
+.box-green {
+    background-color: #ccffcc;
+    padding: 20px;
+    text-align: center;
+    border: 4px solid #999;
 }
-.col-xl-1{
-    background-color: blue;
-    color:white;
-}
-.col-sm-1{
-    background-color: rgb(223, 39, 146);
-    color:white;
+
+.box-blue {
+    background-color: #cce5ff;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #999;
 }
